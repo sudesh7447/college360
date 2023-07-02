@@ -29,9 +29,9 @@ Discover colleges with ease by taking virtual tours and exploring their campuses
 ## Gmap
 
 <p align="center">
-<img src="ScreenShots/0003.jpeg" height="440">
-<img src="ScreenShots/0004.jpeg" height="440">
-<img src="ScreenShots/0005.jpeg" height="440">
+<img src="screenshots/0003.jpeg" height="440">
+<img src="screenshots/0004.jpeg" height="440">
+<img src="screenshots/0005.jpeg" height="440">
 </p>
 
 
@@ -41,28 +41,28 @@ Discover colleges with ease by taking virtual tours and exploring their campuses
 ## College Home Page
 
 <p align="center">
-<img src="ScreenShots/0006.jpeg" height="440">
+<img src="screenshots/0006.jpeg" height="440">
 
 </p>
 
 ## Select Tour
 <p align="center">
-<img src="ScreenShots/0007.jpeg" height="440">
-<img src="ScreenShots/0008.jpeg" height="440">
+<img src="screenshots/0007.jpeg" height="440">
+<img src="screenshots/0008.jpeg" height="440">
 </p>
 
 ## Chat and Update Forum
 <p align="center">
-<img src="ScreenShots/0009.jpeg" height="440">
-<img src="ScreenShots/0010.jpeg" height="440">
-<img src="ScreenShots/0011.jpeg" height="440">
-<img src="ScreenShots/0012.jpeg" height="440">
+<img src="screenshots/0009.jpeg" height="440">
+<img src="screenshots/0010.jpeg" height="440">
+<img src="screenshots/0011.jpeg" height="440">
+<img src="screenshots/0012.jpeg" height="440">
 </p>
 
 
 ## Profile Screens
 <p align="center">
-<img src="ScreenShots/0013.jpeg" height="440">
+<img src="screenshots/0013.jpeg" height="440">
 
 </p>
 
@@ -72,7 +72,7 @@ Discover colleges with ease by taking virtual tours and exploring their campuses
 ## SMART INDIA HACKATHON
 
 <p align="center">
-<img src="ScreenShots/0001.png" height="440">
-<img src="ScreenShots/0002.png" height="440">
+<img src="screenshots/0001.png" height="440">
+<img src="screenshots/0002.png" height="440">
 </p>
 
