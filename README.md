@@ -26,70 +26,53 @@ Discover colleges with ease by taking virtual tours and exploring their campuses
 - Chat forum
 - College updates 
 
-[embed]1663041842291.pdf[/embed]
-## Admin Section
-Login - Register Page  | Email-Authentication Page
+## Gmap
 
 <p align="center">
-<img src="ScreenShots/login.jpeg" height="440">
-<img src="ScreenShots/signup.jpeg" height="440">
+<img src="ScreenShots/0003.jpeg" height="440">
+<img src="ScreenShots/0004.jpeg" height="440">
+<img src="ScreenShots/0005.jpeg" height="440">
 </p>
 
 
 
 
 
-## Home Page / All Suggestions
+## College Home Page
 
 <p align="center">
-<img src="ScreenShots/allsuggestions.jpeg" height="440">
+<img src="ScreenShots/0006.jpeg" height="440">
 
 </p>
 
-## Create Suggestion
-Only students not admin
+## Select Tour
 <p align="center">
-<img src="ScreenShots/createsuggestion.jpeg" height="440">
-
+<img src="ScreenShots/0007.jpeg" height="440">
+<img src="ScreenShots/0008.jpeg" height="440">
 </p>
 
-## Suggestion Detail Screen
-For Admin and Student
+## Chat and Update Forum
 <p align="center">
-<img src="ScreenShots/suggestiondetail.jpeg" height="440">
-
+<img src="ScreenShots/0009.jpeg" height="440">
+<img src="ScreenShots/0010.jpeg" height="440">
+<img src="ScreenShots/0011.jpeg" height="440">
+<img src="ScreenShots/0012.jpeg" height="440">
 </p>
 
 
 ## Profile Screens
-For Admin and Student
 <p align="center">
-<img src="ScreenShots/profile.jpeg" height="440">
+<img src="ScreenShots/0013.jpeg" height="440">
 
 </p>
 
 
 
 
-
-
-
-
-
-## Admin Section
+## SMART INDIA HACKATHON
 
 <p align="center">
-<img src="ScreenShots/admin1.jpeg" height="440">
-<img src="ScreenShots/admin2.jpeg" height="440">
-<img src="ScreenShots/admin3.jpeg" height="440">
-</p>
-
-
-
-## Poster
-
-<p align="center">
-<img src="ScreenShots/poster.png" height="440">
-
+<img src="ScreenShots/0001.png" height="440">
+<img src="ScreenShots/0002.png" height="440">
 </p>
 
