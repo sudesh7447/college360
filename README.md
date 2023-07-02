@@ -4,9 +4,6 @@ Flutter Project Created for AICTE organisation during National Finale of Smart I
 
 
 
-Phase1 Complete --> Date: 20 MARCH 2023
-
-
 # INSTALLATION GUIDE
 
  1) Clone this repo
