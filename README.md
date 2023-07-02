@@ -26,6 +26,7 @@ Discover colleges with ease by taking virtual tours and exploring their campuses
 - Chat forum
 - College updates 
 
+[embed]1663041842291.pdf[/embed]
 ## Admin Section
 Login - Register Page  | Email-Authentication Page
 
