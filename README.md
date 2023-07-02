@@ -72,7 +72,7 @@ Discover colleges with ease by taking virtual tours and exploring their campuses
 ## SMART INDIA HACKATHON
 
 <p align="center">
-<img src="screenshots/0001.png" height="440">
-<img src="screenshots/0002.png" height="440">
+<img src="screenshots/0001.jpg" height="440">
+<img src="screenshots/0002.jpg" height="440">
 </p>
 
